@@ -1,1 +1,2 @@
-# mi-primer-repositorio-en-equipo
+#Trabajo Colaborativo
+#Juan Ignacio Campora
