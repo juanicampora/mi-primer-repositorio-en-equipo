@@ -1,2 +1,3 @@
-#Trabajo Colaborativo
-#Juan Ignacio Campora
+# Trabajo en equipo
+Victoria Garreta
+
