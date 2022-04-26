@@ -1,3 +1,3 @@
 # Trabajo en equipo
-Victoria Garreta
+Victoria Garreta y Juan Ignacio Campora
 
